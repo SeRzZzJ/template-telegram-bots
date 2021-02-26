@@ -1,2 +1,2 @@
-# Bot_template
+# template-telegram-bots
 telegram bot template
